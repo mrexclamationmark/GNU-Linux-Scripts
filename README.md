@@ -2,6 +2,6 @@
 
 **Navigation:**
 
-Linux-Kernel-Configuration: https://github.com/mrtelekinesis/Linux-Kernel-Configuration
+Linux-Kernel-Configuration: https://github.com/exclamationmarked/Linux-Kernel-Configuration
  
-GNU-Linux-Configuration: https://github.com/mrtelekinesis/GNU-Linux-Configuration
+GNU-Linux-Configuration: https://github.com/exclamationmarked/GNU-Linux-Configuration
